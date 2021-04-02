@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#C10000</item>
+        <item name="colorPrimaryDark">#090808</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+<!--<style name="splashScreenTheme" parent="Theme.MaterialComponents.Light.NoActionBar">-->
+<!--    <item name="android:windowBackground">@drawable/kisspnglogo</item>-->
+<!--    <item name="android:statusBarColor">@color/colorYello</item>-->
+<!--</style>-->
+
+</resources>

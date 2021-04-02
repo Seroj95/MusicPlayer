@@ -1,0 +1,2 @@
+rootProject.name = "ARAnimal"
+include ':app'
